@@ -1,11 +1,11 @@
-[[PRINTERIS]]
+[Bambu Lab P1S](/PRINTERIS.md)
 
 #MEDŽIAGOS
 
 1. [PLA](/medzegos/PLA.md)
 2. [PETG](/medzegos/PETG.md)
 3. [PVA](/medzegos/PVA.md)
-4. [TPU](/medzegos/PTU.md)
+4. [TPU](/medzegos/TPU.md)
 5. [PA](/medzegos/PA.md)
 6. [PC](/medzegos/PC.md)
 7. [ABS](/medzegos/ABS.md)
