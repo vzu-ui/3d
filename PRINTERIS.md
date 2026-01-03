@@ -1,0 +1,1 @@
+https://www.anodas.lt/3d-spausdintuvas-bambu-lab-p1s
